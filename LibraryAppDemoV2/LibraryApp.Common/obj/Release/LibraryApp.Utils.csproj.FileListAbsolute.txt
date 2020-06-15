@@ -1,0 +1,4 @@
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\bin\Release\LibraryApp.Common.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\bin\Release\LibraryApp.Common.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\obj\Release\LibraryApp.Common.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\obj\Release\LibraryApp.Common.pdb

@@ -1,0 +1,10 @@
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.BusinessLogic.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.BusinessLogic.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.BusinessObjects.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.DataAccess.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.BusinessObjects.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\bin\Debug\LibraryApp.DataAccess.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\obj\Debug\LibraryApp.BusinessLogic.csprojAssemblyReference.cache
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\obj\Debug\LibraryApp.BusinessLogic.csproj.CopyComplete
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\obj\Debug\LibraryApp.BusinessLogic.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessLogic\obj\Debug\LibraryApp.BusinessLogic.pdb

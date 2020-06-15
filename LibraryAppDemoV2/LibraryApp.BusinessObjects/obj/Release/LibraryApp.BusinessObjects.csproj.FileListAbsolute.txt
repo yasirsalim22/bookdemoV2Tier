@@ -1,0 +1,5 @@
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessObjects\bin\Release\LibraryApp.BusinessObjects.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessObjects\bin\Release\LibraryApp.BusinessObjects.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessObjects\obj\Release\LibraryApp.BusinessObjects.csprojAssemblyReference.cache
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessObjects\obj\Release\LibraryApp.BusinessObjects.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.BusinessObjects\obj\Release\LibraryApp.BusinessObjects.pdb

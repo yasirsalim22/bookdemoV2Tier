@@ -1,0 +1,5 @@
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\bin\Debug\LibraryApp.Common.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\bin\Debug\LibraryApp.Common.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\obj\Debug\LibraryApp.Utils.csprojAssemblyReference.cache
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\obj\Debug\LibraryApp.Common.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.Common\obj\Debug\LibraryApp.Common.pdb

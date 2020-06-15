@@ -1,0 +1,8 @@
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\bin\Debug\LibraryApp.DataAccess.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\bin\Debug\LibraryApp.DataAccess.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\bin\Debug\LibraryApp.BusinessObjects.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\bin\Debug\LibraryApp.BusinessObjects.pdb
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\obj\Debug\LibraryApp.DataAccess.csprojAssemblyReference.cache
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\obj\Debug\LibraryApp.DataAccess.csproj.CopyComplete
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\obj\Debug\LibraryApp.DataAccess.dll
+F:\Demos\demobookaspnetebforms\demobook-master\demobook-master\LibraryApp.DataAccess\obj\Debug\LibraryApp.DataAccess.pdb
